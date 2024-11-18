@@ -2,9 +2,8 @@
 
 This repository demonstrates how biometric fingerprint authentication can be bypassed on a rooted Android device using tools like RootAVD, Frida, and a custom script. It includes a demonstration APK, tools for rooting, and a script for bypassing fingerprint authentication.
 
----
 
-## **Repository Structure**
+
 
 ```plaintext
 Fingerprint-Bypass-Demo/
