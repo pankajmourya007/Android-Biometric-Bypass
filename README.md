@@ -99,7 +99,7 @@ Monitor the script's output and adjust hooks to bypass biometric checks.
 ## Demonstration
 
 ### Video Tutorial
-Coming soon!
+[Watch the video here](https://github.com/pankajmourya007/Android-Biometric-Bypass/blob/main/biometric%20bypass.mp4)
 
 ### Sample Output
 ```plaintext
