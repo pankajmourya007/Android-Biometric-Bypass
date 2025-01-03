@@ -120,6 +120,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## References
-- [RootAVD GitHub Repository](https://github.com/mrg666/RootAVD)
+- [RootAVD GitHub Repository](https://github.com/newbit1/rootAVD)
 - [Frida Official Documentation](https://frida.re)
 
